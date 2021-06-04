@@ -1,0 +1,3 @@
+﻿root;GeekBrains
+root1;GeekBrains1
+Awesome;Str
